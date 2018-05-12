@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32160
     wikipedia: http://en.wikipedia.org/wiki/George_Augustus_Henry_Sala
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26669#The-Strange-Adventures-of-Captain-Dangerous-Vol.-3---13-among-the-moors...
 gutenberg_issued: '2008-09-19'
 gutenberg_type: Text
 identifiers:
