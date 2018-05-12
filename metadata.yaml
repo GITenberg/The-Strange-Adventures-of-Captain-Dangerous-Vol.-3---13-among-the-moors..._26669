@@ -1,0 +1,29 @@
+_repo: The-Strange-Adventures-of-Captain-Dangerous-Vol.-3---13-among-the-moors..._26669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sala, George Augustus
+    alias: Sala, George Augustus Henry
+    birthdate: 1828
+    deathdate: 1895
+    gutenberg_agent_id: '32160'
+    url: http://www.gutenberg.org/2009/agents/32160
+    wikipedia: http://en.wikipedia.org/wiki/George_Augustus_Henry_Sala
+description: ''
+gutenberg_issued: '2008-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PR'
+title: "The Strange Adventures of Captain Dangerous, Vol. 3 \r\nWho was a sailor,\
+  \ a soldier, a merchant, a spy, a slave\r\namong the moors..."
+url: http://www.gutenberg.org/ebooks/26669
